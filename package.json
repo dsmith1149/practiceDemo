@@ -1,0 +1,15 @@
+{
+  "name": "practicedemo",
+  "version": "1.0.0",
+  "description": "practiceDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"jest\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "practiceDemo"
+  },
+  "author": "\"smith\"",
+  "license": "ISC"
+}
